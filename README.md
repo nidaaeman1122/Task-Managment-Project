@@ -38,7 +38,7 @@ A React-based Task Manager Dashboard that provides data-driven insights into tas
 ## **Screenshots**
 
 ### Dashboard Overview
-<img width="551" height="296" alt="Screenshot (928)" src="https://github.com/user-attachments/assets/49254ffd-8093-47de-bb0e-55051d9544da" />
+<img width="1366" height="768" alt="Screenshot (928)" src="https://github.com/user-attachments/assets/efad0b4f-7e97-4332-bb8b-4691a0ca7f23" />
 
 
 
