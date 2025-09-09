@@ -42,7 +42,8 @@ A React-based Task Manager Dashboard that provides data-driven insights into tas
 
 
 ### Add Task with Attachment
-![Add Task](./screenshots/add-task.png)
+![Uploading Screenshot (929).png…]()
+
 
 ### Analytics Charts
 ![Charts](./screenshots/charts.png)
