@@ -1,6 +1,7 @@
 # Task Manager Dashboard App
 
-![App Banner](./screenshots/banner.png)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e71ad98e-b29c-497e-b551-245f8e142941" />
+
 
 ## **Project Overview**
 A React-based Task Manager Dashboard that provides data-driven insights into task performance. The app allows users to:
