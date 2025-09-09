@@ -38,18 +38,18 @@ A React-based Task Manager Dashboard that provides data-driven insights into tas
 ## **Screenshots**
 
 ### Dashboard Overview
-![Uploading image.png…]()
+<img width="551" height="296" alt="Screenshot (928)" src="https://github.com/user-attachments/assets/49254ffd-8093-47de-bb0e-55051d9544da" />
+
 
 
 ### Add Task with Attachment
-![Uploading Screenshot (929).png…]()
+<img width="1047" height="381" alt="Screenshot (929)" src="https://github.com/user-attachments/assets/322dfca8-e6c3-4aa3-a5b4-34a89439b7ff" />
+
 
 
 ### Analytics Charts
-![Charts](./screenshots/charts.png)
+<img width="551" height="296" alt="Screenshot (928)" src="https://github.com/user-attachments/assets/4ebda1ff-afab-4f5c-9807-cf684169bd0f" />
 
-### Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
 
 ---
 
