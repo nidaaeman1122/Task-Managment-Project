@@ -62,3 +62,36 @@ cd task-manager-dashboard
 
  Deployment Link: 
 https://chipper-valkyrie-764a68.netlify.app/
+
+
+Backend 
+
+If using a backend API, configure the base URL in the frontend
+
+ Endpoints:
+
+GET /tasks – Get all tasks
+
+POST /tasks – Add new task
+
+PUT /tasks/:id – Update task
+
+DELETE /tasks/:id – Delete task
+
+File Upload / Attachments
+
+Attach files or images when creating a task
+
+Images show preview; other file types are available as clickable download links
+
+Dark Mode
+
+Toggle using the top-right button in the dashboard header
+
+Mode persists even after page refresh
+
+Deployment
+
+Live deployed URL: (https://chipper-valkyrie-764a68.netlify.app/)
+
+Make sure localStorage contains sample currentUser data for testing login
