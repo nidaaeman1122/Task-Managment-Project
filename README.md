@@ -1,6 +1,6 @@
 # Task Manager Dashboard App
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e71ad98e-b29c-497e-b551-245f8e142941" />
+![Uploading image.png…]()
 
 
 ## **Project Overview**
