@@ -66,7 +66,7 @@ A React-based Task Manager Dashboard that provides data-driven insights into tas
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/your-username/task-manager-dashboard.git](https://github.com/nidaaeman1122/Task-Managment-Project.git)
+git clone (https://github.com/nidaaeman1122/Task-Managment-Project.git)
 cd task-manager-dashboard
 
  Deployment Link: 
