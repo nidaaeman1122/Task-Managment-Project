@@ -50,6 +50,10 @@ A React-based Task Manager Dashboard that provides data-driven insights into tas
 ### Analytics Charts
 <img width="551" height="296" alt="Screenshot (928)" src="https://github.com/user-attachments/assets/4ebda1ff-afab-4f5c-9807-cf684169bd0f" />
 
+### DataBase 
+![Uploading Screenshot (930).png…]()
+
+
 
 ---
 
